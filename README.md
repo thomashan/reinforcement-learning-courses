@@ -6,7 +6,7 @@ List of reinforcement learning courses
 * https://www.coursera.org/learn/reinforcement-learning-in-finance
 * https://www.coursera.org/learn/advanced-methods-reinforcement-learning-finance
 * https://www.coursera.org/learn/practical-rl
-* https://classroom.udacity.com/courses/ud600/
+* Reinforcement Learning - https://classroom.udacity.com/courses/ud600/
 * https://simoninithomas.github.io/Deep_reinforcement_learning_Course/
 * http://aima.cs.berkeley.edu/
 * http://web.stanford.edu/class/cs234/index.html
